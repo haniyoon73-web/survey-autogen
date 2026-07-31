@@ -49,7 +49,7 @@ dist/
 *.pyc
 
 # Google credentials (민감한 파일)
-credentials.json
+# credentials.json
 service-account-key.json
 *.p12
 *.json.backup
